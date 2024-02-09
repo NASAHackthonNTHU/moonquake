@@ -1,0 +1,1923 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="lognonne_2003_catalog_1" id="lognonne_2003_catalog_1">
+	<SimpleField name="Type" type="string"></SimpleField>
+	<SimpleField name="Lat" type="float"></SimpleField>
+	<SimpleField name="Long" type="float"></SimpleField>
+	<SimpleField name="Depth" type="string"></SimpleField>
+	<SimpleField name="Phi" type="string"></SimpleField>
+	<SimpleField name="Delta-a" type="string"></SimpleField>
+	<SimpleField name="Delta-b" type="string"></SimpleField>
+	<SimpleField name="Depth_err" type="string"></SimpleField>
+	<SimpleField name="Date" type="string"></SimpleField>
+	<SimpleField name="Seconds" type="string"></SimpleField>
+	<SimpleField name="Time_err" type="string"></SimpleField>
+	<SimpleField name="12P" type="string"></SimpleField>
+	<SimpleField name="12P_EC" type="string"></SimpleField>
+	<SimpleField name="14P" type="string"></SimpleField>
+	<SimpleField name="14P_EC" type="string"></SimpleField>
+	<SimpleField name="15P" type="string"></SimpleField>
+	<SimpleField name="15P_EC" type="string"></SimpleField>
+	<SimpleField name="16P" type="string"></SimpleField>
+	<SimpleField name="16P_EC" type="string"></SimpleField>
+	<SimpleField name="12S" type="string"></SimpleField>
+	<SimpleField name="12S_EC" type="string"></SimpleField>
+	<SimpleField name="14S" type="string"></SimpleField>
+	<SimpleField name="14S_EC" type="string"></SimpleField>
+	<SimpleField name="15S" type="string"></SimpleField>
+	<SimpleField name="15S_EC" type="string"></SimpleField>
+	<SimpleField name="16S" type="string"></SimpleField>
+	<SimpleField name="16S_EC" type="string"></SimpleField>
+</Schema>
+<Folder><name>lognonne_2003_catalog_1</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">12 LM</SimpleData>
+		<SimpleData name="Lat">-3.94</SimpleData>
+		<SimpleData name="Long">-21.2</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">0</SimpleData>
+		<SimpleData name="Delta-a">0</SimpleData>
+		<SimpleData name="Delta-b">0</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">6911202217</SimpleData>
+		<SimpleData name="Seconds">17.7</SimpleData>
+		<SimpleData name="Time_err">0</SimpleData>
+		<SimpleData name="12P">42.4</SimpleData>
+		<SimpleData name="12P_EC">2</SimpleData>
+		<SimpleData name="14P"></SimpleData>
+		<SimpleData name="14P_EC"></SimpleData>
+		<SimpleData name="15P"></SimpleData>
+		<SimpleData name="15P_EC"></SimpleData>
+		<SimpleData name="16P"></SimpleData>
+		<SimpleData name="16P_EC"></SimpleData>
+		<SimpleData name="12S">56.29</SimpleData>
+		<SimpleData name="12S_EC">2</SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-21.2,-3.94</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">13 S-IVB</SimpleData>
+		<SimpleData name="Lat">-2.75</SimpleData>
+		<SimpleData name="Long">-27.86</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">0</SimpleData>
+		<SimpleData name="Delta-a">0</SimpleData>
+		<SimpleData name="Delta-b">0</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7004150209</SimpleData>
+		<SimpleData name="Seconds">41</SimpleData>
+		<SimpleData name="Time_err">0</SimpleData>
+		<SimpleData name="12P">68.8</SimpleData>
+		<SimpleData name="12P_EC">0</SimpleData>
+		<SimpleData name="14P"></SimpleData>
+		<SimpleData name="14P_EC"></SimpleData>
+		<SimpleData name="15P"></SimpleData>
+		<SimpleData name="15P_EC"></SimpleData>
+		<SimpleData name="16P"></SimpleData>
+		<SimpleData name="16P_EC"></SimpleData>
+		<SimpleData name="12S">89.04</SimpleData>
+		<SimpleData name="12S_EC">2</SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-27.86,-2.75</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">14 S-IVB</SimpleData>
+		<SimpleData name="Lat">-8.09</SimpleData>
+		<SimpleData name="Long">-26.02</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">0</SimpleData>
+		<SimpleData name="Delta-a">0</SimpleData>
+		<SimpleData name="Delta-b">0</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7102040740</SimpleData>
+		<SimpleData name="Seconds">55.4</SimpleData>
+		<SimpleData name="Time_err">0</SimpleData>
+		<SimpleData name="12P">90.8</SimpleData>
+		<SimpleData name="12P_EC">0</SimpleData>
+		<SimpleData name="14P"></SimpleData>
+		<SimpleData name="14P_EC"></SimpleData>
+		<SimpleData name="15P"></SimpleData>
+		<SimpleData name="15P_EC"></SimpleData>
+		<SimpleData name="16P"></SimpleData>
+		<SimpleData name="16P_EC"></SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-26.02,-8.09</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">14 LM</SimpleData>
+		<SimpleData name="Lat">-3.42</SimpleData>
+		<SimpleData name="Long">-19.67</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">0</SimpleData>
+		<SimpleData name="Delta-a">0</SimpleData>
+		<SimpleData name="Delta-b">0</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7102070045</SimpleData>
+		<SimpleData name="Seconds">25.7</SimpleData>
+		<SimpleData name="Time_err">0</SimpleData>
+		<SimpleData name="12P">46.8</SimpleData>
+		<SimpleData name="12P_EC">1</SimpleData>
+		<SimpleData name="14P">44.5</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P"></SimpleData>
+		<SimpleData name="15P_EC"></SimpleData>
+		<SimpleData name="16P"></SimpleData>
+		<SimpleData name="16P_EC"></SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-19.67,-3.42</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">15 S-IVB</SimpleData>
+		<SimpleData name="Lat">-1.51</SimpleData>
+		<SimpleData name="Long">-11.81</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">0</SimpleData>
+		<SimpleData name="Delta-a">0</SimpleData>
+		<SimpleData name="Delta-b">0</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7107292058</SimpleData>
+		<SimpleData name="Seconds">42.9</SimpleData>
+		<SimpleData name="Time_err">0</SimpleData>
+		<SimpleData name="12P">97</SimpleData>
+		<SimpleData name="12P_EC">1</SimpleData>
+		<SimpleData name="14P">79.7</SimpleData>
+		<SimpleData name="14P_EC">0</SimpleData>
+		<SimpleData name="15P"></SimpleData>
+		<SimpleData name="15P_EC"></SimpleData>
+		<SimpleData name="16P"></SimpleData>
+		<SimpleData name="16P_EC"></SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-11.81,-1.51</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">15 LM</SimpleData>
+		<SimpleData name="Lat">26.36</SimpleData>
+		<SimpleData name="Long">0.25</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">0</SimpleData>
+		<SimpleData name="Delta-a">0</SimpleData>
+		<SimpleData name="Delta-b">0</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7108030303</SimpleData>
+		<SimpleData name="Seconds">37</SimpleData>
+		<SimpleData name="Time_err">0</SimpleData>
+		<SimpleData name="12P"></SimpleData>
+		<SimpleData name="12P_EC"></SimpleData>
+		<SimpleData name="14P"></SimpleData>
+		<SimpleData name="14P_EC"></SimpleData>
+		<SimpleData name="15P">64.5</SimpleData>
+		<SimpleData name="15P_EC">0</SimpleData>
+		<SimpleData name="16P"></SimpleData>
+		<SimpleData name="16P_EC"></SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.25,26.36</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">16 S-IVB</SimpleData>
+		<SimpleData name="Lat">1.3</SimpleData>
+		<SimpleData name="Long">-23.8</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">0</SimpleData>
+		<SimpleData name="Delta-a">0</SimpleData>
+		<SimpleData name="Delta-b">0</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7204192102</SimpleData>
+		<SimpleData name="Seconds">4</SimpleData>
+		<SimpleData name="Time_err">0</SimpleData>
+		<SimpleData name="12P">31.4</SimpleData>
+		<SimpleData name="12P_EC">0</SimpleData>
+		<SimpleData name="14P">47.5</SimpleData>
+		<SimpleData name="14P_EC">0</SimpleData>
+		<SimpleData name="15P">150.9</SimpleData>
+		<SimpleData name="15P_EC">0</SimpleData>
+		<SimpleData name="16P"></SimpleData>
+		<SimpleData name="16P_EC"></SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-23.8,1.3</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">17 S-IVB</SimpleData>
+		<SimpleData name="Lat">-4.21</SimpleData>
+		<SimpleData name="Long">-12.31</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">0</SimpleData>
+		<SimpleData name="Delta-a">0</SimpleData>
+		<SimpleData name="Delta-b">0</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7212102032</SimpleData>
+		<SimpleData name="Seconds">42.3</SimpleData>
+		<SimpleData name="Time_err">0</SimpleData>
+		<SimpleData name="12P">98</SimpleData>
+		<SimpleData name="12P_EC">0</SimpleData>
+		<SimpleData name="14P">74.5</SimpleData>
+		<SimpleData name="14P_EC">0</SimpleData>
+		<SimpleData name="15P">196.5</SimpleData>
+		<SimpleData name="15P_EC">1</SimpleData>
+		<SimpleData name="16P">164.2</SimpleData>
+		<SimpleData name="16P_EC">0</SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-12.31,-4.21</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">M</SimpleData>
+		<SimpleData name="Lat">74.1</SimpleData>
+		<SimpleData name="Long">2.6</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">16</SimpleData>
+		<SimpleData name="Delta-a">2.7</SimpleData>
+		<SimpleData name="Delta-b">1.1</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7201040631</SimpleData>
+		<SimpleData name="Seconds">19.72</SimpleData>
+		<SimpleData name="Time_err">1.7</SimpleData>
+		<SimpleData name="12P">318</SimpleData>
+		<SimpleData name="12P_EC">2</SimpleData>
+		<SimpleData name="14P">315</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P">215</SimpleData>
+		<SimpleData name="15P_EC">1</SimpleData>
+		<SimpleData name="16P"></SimpleData>
+		<SimpleData name="16P_EC"></SimpleData>
+		<SimpleData name="12S">542</SimpleData>
+		<SimpleData name="12S_EC">2</SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S">350</SimpleData>
+		<SimpleData name="15S_EC">1</SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>2.6,74.1</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">M</SimpleData>
+		<SimpleData name="Lat">1.5</SimpleData>
+		<SimpleData name="Long">-17.1</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">-52</SimpleData>
+		<SimpleData name="Delta-a">0.3</SimpleData>
+		<SimpleData name="Delta-b">0.2</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7205130845</SimpleData>
+		<SimpleData name="Seconds">39.49</SimpleData>
+		<SimpleData name="Time_err">1</SimpleData>
+		<SimpleData name="12P">84.9</SimpleData>
+		<SimpleData name="12P_EC">0</SimpleData>
+		<SimpleData name="14P">72.1</SimpleData>
+		<SimpleData name="14P_EC">0</SimpleData>
+		<SimpleData name="15P">173.5</SimpleData>
+		<SimpleData name="15P_EC">0</SimpleData>
+		<SimpleData name="16P">181</SimpleData>
+		<SimpleData name="16P_EC">0</SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S">97.5</SimpleData>
+		<SimpleData name="14S_EC">2</SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-17.1,1.5</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">M</SimpleData>
+		<SimpleData name="Lat">32.8</SimpleData>
+		<SimpleData name="Long">137.6</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">-47</SimpleData>
+		<SimpleData name="Delta-a">1.3</SimpleData>
+		<SimpleData name="Delta-b">1.1</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7207172150</SimpleData>
+		<SimpleData name="Seconds">57.9</SimpleData>
+		<SimpleData name="Time_err">4.4</SimpleData>
+		<SimpleData name="12P">473.7</SimpleData>
+		<SimpleData name="12P_EC">0</SimpleData>
+		<SimpleData name="14P">483</SimpleData>
+		<SimpleData name="14P_EC">0</SimpleData>
+		<SimpleData name="15P">418.2</SimpleData>
+		<SimpleData name="15P_EC">0</SimpleData>
+		<SimpleData name="16P">445.8</SimpleData>
+		<SimpleData name="16P_EC">0</SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.6,32.8</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">M</SimpleData>
+		<SimpleData name="Lat">24</SimpleData>
+		<SimpleData name="Long">10.1</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">-7</SimpleData>
+		<SimpleData name="Delta-a">0.7</SimpleData>
+		<SimpleData name="Delta-b">0.3</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7207311808</SimpleData>
+		<SimpleData name="Seconds">15.72</SimpleData>
+		<SimpleData name="Time_err">2.3</SimpleData>
+		<SimpleData name="12P">193.4</SimpleData>
+		<SimpleData name="12P_EC">1</SimpleData>
+		<SimpleData name="14P">174.7</SimpleData>
+		<SimpleData name="14P_EC">0</SimpleData>
+		<SimpleData name="15P">52.6</SimpleData>
+		<SimpleData name="15P_EC">0</SimpleData>
+		<SimpleData name="16P"></SimpleData>
+		<SimpleData name="16P_EC"></SimpleData>
+		<SimpleData name="12S">285</SimpleData>
+		<SimpleData name="12S_EC">2</SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S">82</SimpleData>
+		<SimpleData name="15S_EC">1</SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>10.1,24.0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">M</SimpleData>
+		<SimpleData name="Lat">15.8</SimpleData>
+		<SimpleData name="Long">22.9</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">20</SimpleData>
+		<SimpleData name="Delta-a">2.9</SimpleData>
+		<SimpleData name="Delta-b">1.6</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7208292258</SimpleData>
+		<SimpleData name="Seconds">33.57</SimpleData>
+		<SimpleData name="Time_err">3.5</SimpleData>
+		<SimpleData name="12P"></SimpleData>
+		<SimpleData name="12P_EC"></SimpleData>
+		<SimpleData name="14P">210</SimpleData>
+		<SimpleData name="14P_EC">2</SimpleData>
+		<SimpleData name="15P">132</SimpleData>
+		<SimpleData name="15P_EC">2</SimpleData>
+		<SimpleData name="16P">145</SimpleData>
+		<SimpleData name="16P_EC">2</SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S">344</SimpleData>
+		<SimpleData name="14S_EC">2</SimpleData>
+		<SimpleData name="15S">190</SimpleData>
+		<SimpleData name="15S_EC">2</SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>22.9,15.8</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">M</SimpleData>
+		<SimpleData name="Lat">28.7</SimpleData>
+		<SimpleData name="Long">41.1</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">39</SimpleData>
+		<SimpleData name="Delta-a">4.1</SimpleData>
+		<SimpleData name="Delta-b">2.4</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7309262046</SimpleData>
+		<SimpleData name="Seconds">16.32</SimpleData>
+		<SimpleData name="Time_err">4.5</SimpleData>
+		<SimpleData name="12P">295</SimpleData>
+		<SimpleData name="12P_EC">2</SimpleData>
+		<SimpleData name="14P">280</SimpleData>
+		<SimpleData name="14P_EC">2</SimpleData>
+		<SimpleData name="15P">155</SimpleData>
+		<SimpleData name="15P_EC">1</SimpleData>
+		<SimpleData name="16P">192</SimpleData>
+		<SimpleData name="16P_EC">2</SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S">255</SimpleData>
+		<SimpleData name="15S_EC">2</SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>41.1,28.7</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">M</SimpleData>
+		<SimpleData name="Lat">-24.8</SimpleData>
+		<SimpleData name="Long">-25.1</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">59</SimpleData>
+		<SimpleData name="Delta-a">5.2</SimpleData>
+		<SimpleData name="Delta-b">1.8</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7312241003</SimpleData>
+		<SimpleData name="Seconds">19.35</SimpleData>
+		<SimpleData name="Time_err">4.5</SimpleData>
+		<SimpleData name="12P">119</SimpleData>
+		<SimpleData name="12P_EC">1</SimpleData>
+		<SimpleData name="14P">113</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P">250.9</SimpleData>
+		<SimpleData name="15P_EC">1</SimpleData>
+		<SimpleData name="16P">190</SimpleData>
+		<SimpleData name="16P_EC">2</SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-25.1,-24.8</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">M</SimpleData>
+		<SimpleData name="Lat">7.4</SimpleData>
+		<SimpleData name="Long">-33.6</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">-5</SimpleData>
+		<SimpleData name="Delta-a">2.2</SimpleData>
+		<SimpleData name="Delta-b">0.9</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7404191830</SimpleData>
+		<SimpleData name="Seconds">3.27</SimpleData>
+		<SimpleData name="Time_err">1.8</SimpleData>
+		<SimpleData name="12P">70.9</SimpleData>
+		<SimpleData name="12P_EC">1</SimpleData>
+		<SimpleData name="14P">97</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P">168.3</SimpleData>
+		<SimpleData name="15P_EC">1</SimpleData>
+		<SimpleData name="16P">209.2</SimpleData>
+		<SimpleData name="16P_EC">0</SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-33.6,7.4</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">M</SimpleData>
+		<SimpleData name="Lat">20.3</SimpleData>
+		<SimpleData name="Long">6.5</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">9</SimpleData>
+		<SimpleData name="Delta-a">0.8</SimpleData>
+		<SimpleData name="Delta-b">0.6</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7407171205</SimpleData>
+		<SimpleData name="Seconds">2.89</SimpleData>
+		<SimpleData name="Time_err">3.7</SimpleData>
+		<SimpleData name="12P">153.4</SimpleData>
+		<SimpleData name="12P_EC">1</SimpleData>
+		<SimpleData name="14P">148.7</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P">40.6</SimpleData>
+		<SimpleData name="15P_EC">1</SimpleData>
+		<SimpleData name="16P">132.1</SimpleData>
+		<SimpleData name="16P_EC">1</SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S">69</SimpleData>
+		<SimpleData name="15S_EC">2</SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.5,20.3</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">M</SimpleData>
+		<SimpleData name="Lat">-7.3</SimpleData>
+		<SimpleData name="Long">19.9</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">52</SimpleData>
+		<SimpleData name="Delta-a">1</SimpleData>
+		<SimpleData name="Delta-b">0.7</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7411211315</SimpleData>
+		<SimpleData name="Seconds">40.79</SimpleData>
+		<SimpleData name="Time_err">2.2</SimpleData>
+		<SimpleData name="12P">222.9</SimpleData>
+		<SimpleData name="12P_EC">1</SimpleData>
+		<SimpleData name="14P">193</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P">182.7</SimpleData>
+		<SimpleData name="15P_EC">2</SimpleData>
+		<SimpleData name="16P">70.5</SimpleData>
+		<SimpleData name="16P_EC">0</SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.9,-7.3</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">M</SimpleData>
+		<SimpleData name="Lat">1.6</SimpleData>
+		<SimpleData name="Long">-8.2</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">-85</SimpleData>
+		<SimpleData name="Delta-a">1.3</SimpleData>
+		<SimpleData name="Delta-b">0.5</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7412150907</SimpleData>
+		<SimpleData name="Seconds">15.17</SimpleData>
+		<SimpleData name="Time_err">3.8</SimpleData>
+		<SimpleData name="12P">95.1</SimpleData>
+		<SimpleData name="12P_EC">1</SimpleData>
+		<SimpleData name="14P">66.6</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P"></SimpleData>
+		<SimpleData name="15P_EC"></SimpleData>
+		<SimpleData name="16P">128.1</SimpleData>
+		<SimpleData name="16P_EC">1</SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S">109.3</SimpleData>
+		<SimpleData name="14S_EC">2</SimpleData>
+		<SimpleData name="15S">208.2</SimpleData>
+		<SimpleData name="15S_EC">2</SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.2,1.6</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">M</SimpleData>
+		<SimpleData name="Lat">-52.4</SimpleData>
+		<SimpleData name="Long">4.2</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">-77</SimpleData>
+		<SimpleData name="Delta-a">4</SimpleData>
+		<SimpleData name="Delta-b">2.3</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7503052149</SimpleData>
+		<SimpleData name="Seconds">22.3</SimpleData>
+		<SimpleData name="Time_err">7.2</SimpleData>
+		<SimpleData name="12P">236.1</SimpleData>
+		<SimpleData name="12P_EC">2</SimpleData>
+		<SimpleData name="14P">225</SimpleData>
+		<SimpleData name="14P_EC">2</SimpleData>
+		<SimpleData name="15P"></SimpleData>
+		<SimpleData name="15P_EC"></SimpleData>
+		<SimpleData name="16P">209.7</SimpleData>
+		<SimpleData name="16P_EC">2</SimpleData>
+		<SimpleData name="12S">398</SimpleData>
+		<SimpleData name="12S_EC">2</SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S">330</SimpleData>
+		<SimpleData name="16S_EC">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.2,-52.4</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">M</SimpleData>
+		<SimpleData name="Lat">2</SimpleData>
+		<SimpleData name="Long">43.2</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">-11</SimpleData>
+		<SimpleData name="Delta-a">4.5</SimpleData>
+		<SimpleData name="Delta-b">0.5</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7504121812</SimpleData>
+		<SimpleData name="Seconds">38.22</SimpleData>
+		<SimpleData name="Time_err">0.7</SimpleData>
+		<SimpleData name="12P">298.1</SimpleData>
+		<SimpleData name="12P_EC">0</SimpleData>
+		<SimpleData name="14P">277.8</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P">220.6</SimpleData>
+		<SimpleData name="15P_EC">0</SimpleData>
+		<SimpleData name="16P">162.1</SimpleData>
+		<SimpleData name="16P_EC">1</SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>43.2,2.0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">M</SimpleData>
+		<SimpleData name="Lat">-36.4</SimpleData>
+		<SimpleData name="Long">-121.3</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">-47</SimpleData>
+		<SimpleData name="Delta-a">3.3</SimpleData>
+		<SimpleData name="Delta-b">1.1</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7505040959</SimpleData>
+		<SimpleData name="Seconds">28.99</SimpleData>
+		<SimpleData name="Time_err">2.3</SimpleData>
+		<SimpleData name="12P">360.6</SimpleData>
+		<SimpleData name="12P_EC">0</SimpleData>
+		<SimpleData name="14P">376.1</SimpleData>
+		<SimpleData name="14P_EC">0</SimpleData>
+		<SimpleData name="15P">436</SimpleData>
+		<SimpleData name="15P_EC">1</SimpleData>
+		<SimpleData name="16P">413</SimpleData>
+		<SimpleData name="16P_EC">0</SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.3,-36.4</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">M</SimpleData>
+		<SimpleData name="Lat">-39.4</SimpleData>
+		<SimpleData name="Long">62.8</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">55</SimpleData>
+		<SimpleData name="Delta-a">2.7</SimpleData>
+		<SimpleData name="Delta-b">2</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7601130711</SimpleData>
+		<SimpleData name="Seconds">22.8</SimpleData>
+		<SimpleData name="Time_err">6</SimpleData>
+		<SimpleData name="12P">332.7</SimpleData>
+		<SimpleData name="12P_EC">1</SimpleData>
+		<SimpleData name="14P">338.1</SimpleData>
+		<SimpleData name="14P_EC">2</SimpleData>
+		<SimpleData name="15P">333.8</SimpleData>
+		<SimpleData name="15P_EC">1</SimpleData>
+		<SimpleData name="16P">236</SimpleData>
+		<SimpleData name="16P_EC">1</SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S">357.9</SimpleData>
+		<SimpleData name="16S_EC">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.8,-39.4</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">M</SimpleData>
+		<SimpleData name="Lat">-16.8</SimpleData>
+		<SimpleData name="Long">-10</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">67</SimpleData>
+		<SimpleData name="Delta-a">2</SimpleData>
+		<SimpleData name="Delta-b">0.6</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7605280601</SimpleData>
+		<SimpleData name="Seconds">56.38</SimpleData>
+		<SimpleData name="Time_err">5.4</SimpleData>
+		<SimpleData name="12P">163.7</SimpleData>
+		<SimpleData name="12P_EC">2</SimpleData>
+		<SimpleData name="14P">126.5</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P"></SimpleData>
+		<SimpleData name="15P_EC"></SimpleData>
+		<SimpleData name="16P">169</SimpleData>
+		<SimpleData name="16P_EC">1</SimpleData>
+		<SimpleData name="12S">216</SimpleData>
+		<SimpleData name="12S_EC">2</SimpleData>
+		<SimpleData name="14S">169</SimpleData>
+		<SimpleData name="14S_EC">2</SimpleData>
+		<SimpleData name="15S">373</SimpleData>
+		<SimpleData name="15S_EC">2</SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-10.0,-16.8</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">M</SimpleData>
+		<SimpleData name="Lat">23.8</SimpleData>
+		<SimpleData name="Long">-73.9</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">37</SimpleData>
+		<SimpleData name="Delta-a">1.8</SimpleData>
+		<SimpleData name="Delta-b">0.8</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">761142313</SimpleData>
+		<SimpleData name="Seconds">6.67</SimpleData>
+		<SimpleData name="Time_err">0.9</SimpleData>
+		<SimpleData name="12P">228.6</SimpleData>
+		<SimpleData name="12P_EC">0</SimpleData>
+		<SimpleData name="14P">246.9</SimpleData>
+		<SimpleData name="14P_EC">0</SimpleData>
+		<SimpleData name="15P">273.8</SimpleData>
+		<SimpleData name="15P_EC">1</SimpleData>
+		<SimpleData name="16P">337.7</SimpleData>
+		<SimpleData name="16P_EC">0</SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9,23.8</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">M</SimpleData>
+		<SimpleData name="Lat">-20.5</SimpleData>
+		<SimpleData name="Long">-63.8</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">23</SimpleData>
+		<SimpleData name="Delta-a">1.8</SimpleData>
+		<SimpleData name="Delta-b">0.8</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7704712332</SimpleData>
+		<SimpleData name="Seconds">6.03</SimpleData>
+		<SimpleData name="Time_err">0.7</SimpleData>
+		<SimpleData name="12P">183.7</SimpleData>
+		<SimpleData name="12P_EC">1</SimpleData>
+		<SimpleData name="14P">197.8</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P">306.4</SimpleData>
+		<SimpleData name="15P_EC">0</SimpleData>
+		<SimpleData name="16P">298.2</SimpleData>
+		<SimpleData name="16P_EC">0</SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.8,-20.5</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">M</SimpleData>
+		<SimpleData name="Lat">-13.5</SimpleData>
+		<SimpleData name="Long">-75.3</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">-84</SimpleData>
+		<SimpleData name="Delta-a">7.7</SimpleData>
+		<SimpleData name="Delta-b">3.1</SimpleData>
+		<SimpleData name="Depth_err">0</SimpleData>
+		<SimpleData name="Date">7706282222</SimpleData>
+		<SimpleData name="Seconds">31.17</SimpleData>
+		<SimpleData name="Time_err">3.8</SimpleData>
+		<SimpleData name="12P">239.9</SimpleData>
+		<SimpleData name="12P_EC">1</SimpleData>
+		<SimpleData name="14P">250</SimpleData>
+		<SimpleData name="14P_EC">2</SimpleData>
+		<SimpleData name="15P">344</SimpleData>
+		<SimpleData name="15P_EC">2</SimpleData>
+		<SimpleData name="16P">358.5</SimpleData>
+		<SimpleData name="16P_EC">2</SimpleData>
+		<SimpleData name="12S">390</SimpleData>
+		<SimpleData name="12S_EC">2</SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3,-13.5</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">SH</SimpleData>
+		<SimpleData name="Lat">12.8</SimpleData>
+		<SimpleData name="Long">51</SimpleData>
+		<SimpleData name="Depth"></SimpleData>
+		<SimpleData name="Phi">-20</SimpleData>
+		<SimpleData name="Delta-a">2.9</SimpleData>
+		<SimpleData name="Delta-b">109</SimpleData>
+		<SimpleData name="Depth_err">109</SimpleData>
+		<SimpleData name="Date">7209171435</SimpleData>
+		<SimpleData name="Seconds">3</SimpleData>
+		<SimpleData name="Time_err">2.5</SimpleData>
+		<SimpleData name="12P"></SimpleData>
+		<SimpleData name="12P_EC"></SimpleData>
+		<SimpleData name="14P">278</SimpleData>
+		<SimpleData name="14P_EC">2</SimpleData>
+		<SimpleData name="15P">186</SimpleData>
+		<SimpleData name="15P_EC">1</SimpleData>
+		<SimpleData name="16P">170</SimpleData>
+		<SimpleData name="16P_EC">2</SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S">460</SimpleData>
+		<SimpleData name="14S_EC">2</SimpleData>
+		<SimpleData name="15S">322</SimpleData>
+		<SimpleData name="15S_EC">2</SimpleData>
+		<SimpleData name="16S">285</SimpleData>
+		<SimpleData name="16S_EC">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>51.0,12.8</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">SH</SimpleData>
+		<SimpleData name="Lat">48</SimpleData>
+		<SimpleData name="Long">38.2</SimpleData>
+		<SimpleData name="Depth">10</SimpleData>
+		<SimpleData name="Phi">58</SimpleData>
+		<SimpleData name="Delta-a">3.2</SimpleData>
+		<SimpleData name="Delta-b">110</SimpleData>
+		<SimpleData name="Depth_err">110</SimpleData>
+		<SimpleData name="Date">7212062308</SimpleData>
+		<SimpleData name="Seconds">33.4</SimpleData>
+		<SimpleData name="Time_err">7.4</SimpleData>
+		<SimpleData name="12P"></SimpleData>
+		<SimpleData name="12P_EC"></SimpleData>
+		<SimpleData name="14P">302</SimpleData>
+		<SimpleData name="14P_EC">2</SimpleData>
+		<SimpleData name="15P">167</SimpleData>
+		<SimpleData name="15P_EC">2</SimpleData>
+		<SimpleData name="16P">280</SimpleData>
+		<SimpleData name="16P_EC">2</SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S">507</SimpleData>
+		<SimpleData name="14S_EC">2</SimpleData>
+		<SimpleData name="15S">278</SimpleData>
+		<SimpleData name="15S_EC">2</SimpleData>
+		<SimpleData name="16S">430</SimpleData>
+		<SimpleData name="16S_EC">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.2,48.0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">SH</SimpleData>
+		<SimpleData name="Lat">21.9</SimpleData>
+		<SimpleData name="Long">82.6</SimpleData>
+		<SimpleData name="Depth">2</SimpleData>
+		<SimpleData name="Phi">-10</SimpleData>
+		<SimpleData name="Delta-a">2.4</SimpleData>
+		<SimpleData name="Delta-b">63</SimpleData>
+		<SimpleData name="Depth_err">63</SimpleData>
+		<SimpleData name="Date">7407110046</SimpleData>
+		<SimpleData name="Seconds">18.26</SimpleData>
+		<SimpleData name="Time_err">1.3</SimpleData>
+		<SimpleData name="12P">377.1</SimpleData>
+		<SimpleData name="12P_EC">1</SimpleData>
+		<SimpleData name="14P">365.4</SimpleData>
+		<SimpleData name="14P_EC">2</SimpleData>
+		<SimpleData name="15P">296</SimpleData>
+		<SimpleData name="15P_EC">2</SimpleData>
+		<SimpleData name="16P">297.7</SimpleData>
+		<SimpleData name="16P_EC">0</SimpleData>
+		<SimpleData name="12S">655.9</SimpleData>
+		<SimpleData name="12S_EC">2</SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S">485.1</SimpleData>
+		<SimpleData name="15S_EC">2</SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.6,21.9</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">SH</SimpleData>
+		<SimpleData name="Lat">26.1</SimpleData>
+		<SimpleData name="Long">-92.7</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">42</SimpleData>
+		<SimpleData name="Delta-a">2.4</SimpleData>
+		<SimpleData name="Delta-b">38</SimpleData>
+		<SimpleData name="Depth_err">38</SimpleData>
+		<SimpleData name="Date">7501030141</SimpleData>
+		<SimpleData name="Seconds">58.36</SimpleData>
+		<SimpleData name="Time_err">6.8</SimpleData>
+		<SimpleData name="12P">334.3</SimpleData>
+		<SimpleData name="12P_EC">1</SimpleData>
+		<SimpleData name="14P">350.8</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P">363.1</SimpleData>
+		<SimpleData name="15P_EC">1</SimpleData>
+		<SimpleData name="16P">434.9</SimpleData>
+		<SimpleData name="16P_EC">1</SimpleData>
+		<SimpleData name="12S">543</SimpleData>
+		<SimpleData name="12S_EC">2</SimpleData>
+		<SimpleData name="14S">581</SimpleData>
+		<SimpleData name="14S_EC">2</SimpleData>
+		<SimpleData name="15S">608</SimpleData>
+		<SimpleData name="15S_EC">2</SimpleData>
+		<SimpleData name="16S">730</SimpleData>
+		<SimpleData name="16S_EC">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-92.7,26.1</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">SH</SimpleData>
+		<SimpleData name="Lat">64.1</SimpleData>
+		<SimpleData name="Long">59.9</SimpleData>
+		<SimpleData name="Depth">0</SimpleData>
+		<SimpleData name="Phi">59</SimpleData>
+		<SimpleData name="Delta-a">1.8</SimpleData>
+		<SimpleData name="Delta-b">14</SimpleData>
+		<SimpleData name="Depth_err">14</SimpleData>
+		<SimpleData name="Date">7501120313</SimpleData>
+		<SimpleData name="Seconds">51.74</SimpleData>
+		<SimpleData name="Time_err">0.6</SimpleData>
+		<SimpleData name="12P"></SimpleData>
+		<SimpleData name="12P_EC"></SimpleData>
+		<SimpleData name="14P">360</SimpleData>
+		<SimpleData name="14P_EC">2</SimpleData>
+		<SimpleData name="15P">260</SimpleData>
+		<SimpleData name="15P_EC">2</SimpleData>
+		<SimpleData name="16P">350</SimpleData>
+		<SimpleData name="16P_EC">2</SimpleData>
+		<SimpleData name="12S">612.9</SimpleData>
+		<SimpleData name="12S_EC">2</SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S">400</SimpleData>
+		<SimpleData name="15S_EC">0</SimpleData>
+		<SimpleData name="16S">567.6</SimpleData>
+		<SimpleData name="16S_EC">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>59.9,64.1</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">SH</SimpleData>
+		<SimpleData name="Lat">-17</SimpleData>
+		<SimpleData name="Long">-26.1</SimpleData>
+		<SimpleData name="Depth">21</SimpleData>
+		<SimpleData name="Phi">44</SimpleData>
+		<SimpleData name="Delta-a">3</SimpleData>
+		<SimpleData name="Delta-b">112</SimpleData>
+		<SimpleData name="Depth_err">112</SimpleData>
+		<SimpleData name="Date">7502132203</SimpleData>
+		<SimpleData name="Seconds">50.78</SimpleData>
+		<SimpleData name="Time_err">0.7</SimpleData>
+		<SimpleData name="12P"></SimpleData>
+		<SimpleData name="12P_EC"></SimpleData>
+		<SimpleData name="14P">117.9</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P">248</SimpleData>
+		<SimpleData name="15P_EC">2</SimpleData>
+		<SimpleData name="16P">210</SimpleData>
+		<SimpleData name="16P_EC">2</SimpleData>
+		<SimpleData name="12S">154.4</SimpleData>
+		<SimpleData name="12S_EC">2</SimpleData>
+		<SimpleData name="14S">167.8</SimpleData>
+		<SimpleData name="14S_EC">2</SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S">321.7</SimpleData>
+		<SimpleData name="16S_EC">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-26.1,-17.0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">SH</SimpleData>
+		<SimpleData name="Lat">44.1</SimpleData>
+		<SimpleData name="Long">34</SimpleData>
+		<SimpleData name="Depth">125</SimpleData>
+		<SimpleData name="Phi">76</SimpleData>
+		<SimpleData name="Delta-a">3.2</SimpleData>
+		<SimpleData name="Delta-b">179</SimpleData>
+		<SimpleData name="Depth_err">179</SimpleData>
+		<SimpleData name="Date">7601041118</SimpleData>
+		<SimpleData name="Seconds">54.92</SimpleData>
+		<SimpleData name="Time_err">0.3</SimpleData>
+		<SimpleData name="12P"></SimpleData>
+		<SimpleData name="12P_EC"></SimpleData>
+		<SimpleData name="14P">298</SimpleData>
+		<SimpleData name="14P_EC">2</SimpleData>
+		<SimpleData name="15P">175.1</SimpleData>
+		<SimpleData name="15P_EC">2</SimpleData>
+		<SimpleData name="16P">262</SimpleData>
+		<SimpleData name="16P_EC">1</SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S">474</SimpleData>
+		<SimpleData name="14S_EC">2</SimpleData>
+		<SimpleData name="15S">259</SimpleData>
+		<SimpleData name="15S_EC">2</SimpleData>
+		<SimpleData name="16S">412</SimpleData>
+		<SimpleData name="16S_EC">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.0,44.1</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">SH</SimpleData>
+		<SimpleData name="Lat">52.5</SimpleData>
+		<SimpleData name="Long">-25.8</SimpleData>
+		<SimpleData name="Depth">185</SimpleData>
+		<SimpleData name="Phi">-24</SimpleData>
+		<SimpleData name="Delta-a">1.2</SimpleData>
+		<SimpleData name="Delta-b">51</SimpleData>
+		<SimpleData name="Depth_err">51</SimpleData>
+		<SimpleData name="Date">7603061012</SimpleData>
+		<SimpleData name="Seconds">22.08</SimpleData>
+		<SimpleData name="Time_err">2</SimpleData>
+		<SimpleData name="12P">236.9</SimpleData>
+		<SimpleData name="12P_EC">1</SimpleData>
+		<SimpleData name="14P">233.2</SimpleData>
+		<SimpleData name="14P_EC">0</SimpleData>
+		<SimpleData name="15P">158.6</SimpleData>
+		<SimpleData name="15P_EC">1</SimpleData>
+		<SimpleData name="16P">282.6</SimpleData>
+		<SimpleData name="16P_EC">1</SimpleData>
+		<SimpleData name="12S">381.3</SimpleData>
+		<SimpleData name="12S_EC">1</SimpleData>
+		<SimpleData name="14S">387.7</SimpleData>
+		<SimpleData name="14S_EC">1</SimpleData>
+		<SimpleData name="15S">251.2</SimpleData>
+		<SimpleData name="15S_EC">2</SimpleData>
+		<SimpleData name="16S">466.1</SimpleData>
+		<SimpleData name="16S_EC">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-25.8,52.5</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A01</SimpleData>
+		<SimpleData name="Lat">-17.4</SimpleData>
+		<SimpleData name="Long">-38.4</SimpleData>
+		<SimpleData name="Depth">917</SimpleData>
+		<SimpleData name="Phi">-25</SimpleData>
+		<SimpleData name="Delta-a">1.1</SimpleData>
+		<SimpleData name="Delta-b">0.6</SimpleData>
+		<SimpleData name="Depth_err">11</SimpleData>
+		<SimpleData name="Date">7309300410</SimpleData>
+		<SimpleData name="Seconds">58.84</SimpleData>
+		<SimpleData name="Time_err">0.8</SimpleData>
+		<SimpleData name="12P">192.4</SimpleData>
+		<SimpleData name="12P_EC">0</SimpleData>
+		<SimpleData name="14P">194.8</SimpleData>
+		<SimpleData name="14P_EC">0</SimpleData>
+		<SimpleData name="15P">251</SimpleData>
+		<SimpleData name="15P_EC">0</SimpleData>
+		<SimpleData name="16P">239.7</SimpleData>
+		<SimpleData name="16P_EC">1</SimpleData>
+		<SimpleData name="12S">290.5</SimpleData>
+		<SimpleData name="12S_EC">1</SimpleData>
+		<SimpleData name="14S">300.6</SimpleData>
+		<SimpleData name="14S_EC">2</SimpleData>
+		<SimpleData name="15S">396.8</SimpleData>
+		<SimpleData name="15S_EC">0</SimpleData>
+		<SimpleData name="16S">377.8</SimpleData>
+		<SimpleData name="16S_EC">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-38.4,-17.4</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A06</SimpleData>
+		<SimpleData name="Lat">49.7</SimpleData>
+		<SimpleData name="Long">54.7</SimpleData>
+		<SimpleData name="Depth">860</SimpleData>
+		<SimpleData name="Phi">74</SimpleData>
+		<SimpleData name="Delta-a">1</SimpleData>
+		<SimpleData name="Delta-b">0.7</SimpleData>
+		<SimpleData name="Depth_err">11</SimpleData>
+		<SimpleData name="Date">7607021052</SimpleData>
+		<SimpleData name="Seconds">25.31</SimpleData>
+		<SimpleData name="Time_err">2.6</SimpleData>
+		<SimpleData name="12P">259.4</SimpleData>
+		<SimpleData name="12P_EC">0</SimpleData>
+		<SimpleData name="14P">258.2</SimpleData>
+		<SimpleData name="14P_EC">0</SimpleData>
+		<SimpleData name="15P">191.6</SimpleData>
+		<SimpleData name="15P_EC">0</SimpleData>
+		<SimpleData name="16P">235.2</SimpleData>
+		<SimpleData name="16P_EC">0</SimpleData>
+		<SimpleData name="12S">444.7</SimpleData>
+		<SimpleData name="12S_EC">0</SimpleData>
+		<SimpleData name="14S">433.3</SimpleData>
+		<SimpleData name="14S_EC">1</SimpleData>
+		<SimpleData name="15S">316.9</SimpleData>
+		<SimpleData name="15S_EC">1</SimpleData>
+		<SimpleData name="16S">377.9</SimpleData>
+		<SimpleData name="16S_EC">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>54.7,49.7</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A07</SimpleData>
+		<SimpleData name="Lat">24</SimpleData>
+		<SimpleData name="Long">53.7</SimpleData>
+		<SimpleData name="Depth">900</SimpleData>
+		<SimpleData name="Phi">-75</SimpleData>
+		<SimpleData name="Delta-a">0.8</SimpleData>
+		<SimpleData name="Delta-b">0.7</SimpleData>
+		<SimpleData name="Depth_err">12</SimpleData>
+		<SimpleData name="Date">7607020311</SimpleData>
+		<SimpleData name="Seconds">24.18</SimpleData>
+		<SimpleData name="Time_err">0.6</SimpleData>
+		<SimpleData name="12P">251.2</SimpleData>
+		<SimpleData name="12P_EC">0</SimpleData>
+		<SimpleData name="14P">242</SimpleData>
+		<SimpleData name="14P_EC">0</SimpleData>
+		<SimpleData name="15P">191.4</SimpleData>
+		<SimpleData name="15P_EC">0</SimpleData>
+		<SimpleData name="16P">198.8</SimpleData>
+		<SimpleData name="16P_EC">1</SimpleData>
+		<SimpleData name="12S">426.1</SimpleData>
+		<SimpleData name="12S_EC">1</SimpleData>
+		<SimpleData name="14S">408.2</SimpleData>
+		<SimpleData name="14S_EC">0</SimpleData>
+		<SimpleData name="15S">314.5</SimpleData>
+		<SimpleData name="15S_EC">1</SimpleData>
+		<SimpleData name="16S">332.4</SimpleData>
+		<SimpleData name="16S_EC">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>53.7,24.0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A08</SimpleData>
+		<SimpleData name="Lat">-28</SimpleData>
+		<SimpleData name="Long">-28.1</SimpleData>
+		<SimpleData name="Depth">940</SimpleData>
+		<SimpleData name="Phi">51</SimpleData>
+		<SimpleData name="Delta-a">2</SimpleData>
+		<SimpleData name="Delta-b">1.2</SimpleData>
+		<SimpleData name="Depth_err">21</SimpleData>
+		<SimpleData name="Date">7705161052</SimpleData>
+		<SimpleData name="Seconds">29.35</SimpleData>
+		<SimpleData name="Time_err">3</SimpleData>
+		<SimpleData name="12P">173.2</SimpleData>
+		<SimpleData name="12P_EC">1</SimpleData>
+		<SimpleData name="14P">174</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P"></SimpleData>
+		<SimpleData name="15P_EC"></SimpleData>
+		<SimpleData name="16P">189.9</SimpleData>
+		<SimpleData name="16P_EC">1</SimpleData>
+		<SimpleData name="12S">270.5</SimpleData>
+		<SimpleData name="12S_EC">1</SimpleData>
+		<SimpleData name="14S">276.3</SimpleData>
+		<SimpleData name="14S_EC">0</SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S">328.9</SimpleData>
+		<SimpleData name="16S_EC">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-28.1,-28.0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A09</SimpleData>
+		<SimpleData name="Lat">-37.8</SimpleData>
+		<SimpleData name="Long">-30.8</SimpleData>
+		<SimpleData name="Depth">975</SimpleData>
+		<SimpleData name="Phi">14</SimpleData>
+		<SimpleData name="Delta-a">4</SimpleData>
+		<SimpleData name="Delta-b">2.6</SimpleData>
+		<SimpleData name="Depth_err">43</SimpleData>
+		<SimpleData name="Date">7704161958</SimpleData>
+		<SimpleData name="Seconds">4.27</SimpleData>
+		<SimpleData name="Time_err">0.9</SimpleData>
+		<SimpleData name="12P">167.5</SimpleData>
+		<SimpleData name="12P_EC">2</SimpleData>
+		<SimpleData name="14P">159.7</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P"></SimpleData>
+		<SimpleData name="15P_EC"></SimpleData>
+		<SimpleData name="16P"></SimpleData>
+		<SimpleData name="16P_EC">0</SimpleData>
+		<SimpleData name="12S">277.1</SimpleData>
+		<SimpleData name="12S_EC">0</SimpleData>
+		<SimpleData name="14S">277.7</SimpleData>
+		<SimpleData name="14S_EC">1</SimpleData>
+		<SimpleData name="15S">377.1</SimpleData>
+		<SimpleData name="15S_EC">2</SimpleData>
+		<SimpleData name="16S">320.3</SimpleData>
+		<SimpleData name="16S_EC">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-30.8,-37.8</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A11</SimpleData>
+		<SimpleData name="Lat">9.3</SimpleData>
+		<SimpleData name="Long">17.5</SimpleData>
+		<SimpleData name="Depth">1200</SimpleData>
+		<SimpleData name="Phi">-42</SimpleData>
+		<SimpleData name="Delta-a">0.8</SimpleData>
+		<SimpleData name="Delta-b">0.7</SimpleData>
+		<SimpleData name="Depth_err">12</SimpleData>
+		<SimpleData name="Date">7706180501</SimpleData>
+		<SimpleData name="Seconds">16.06</SimpleData>
+		<SimpleData name="Time_err">0.7</SimpleData>
+		<SimpleData name="12P"></SimpleData>
+		<SimpleData name="12P_EC"></SimpleData>
+		<SimpleData name="14P">192.2</SimpleData>
+		<SimpleData name="14P_EC">2</SimpleData>
+		<SimpleData name="15P">173.2</SimpleData>
+		<SimpleData name="15P_EC">1</SimpleData>
+		<SimpleData name="16P"></SimpleData>
+		<SimpleData name="16P_EC">0</SimpleData>
+		<SimpleData name="12S">329.3</SimpleData>
+		<SimpleData name="12S_EC">0</SimpleData>
+		<SimpleData name="14S">319.8</SimpleData>
+		<SimpleData name="14S_EC">0</SimpleData>
+		<SimpleData name="15S">299.4</SimpleData>
+		<SimpleData name="15S_EC">0</SimpleData>
+		<SimpleData name="16S">296.4</SimpleData>
+		<SimpleData name="16S_EC">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.5,9.3</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A14</SimpleData>
+		<SimpleData name="Lat">-28.7</SimpleData>
+		<SimpleData name="Long">-33.9</SimpleData>
+		<SimpleData name="Depth">880</SimpleData>
+		<SimpleData name="Phi">50</SimpleData>
+		<SimpleData name="Delta-a">1.7</SimpleData>
+		<SimpleData name="Delta-b">1.3</SimpleData>
+		<SimpleData name="Depth_err">22</SimpleData>
+		<SimpleData name="Date">7305281853</SimpleData>
+		<SimpleData name="Seconds">12.96</SimpleData>
+		<SimpleData name="Time_err">1.3</SimpleData>
+		<SimpleData name="12P">149.7</SimpleData>
+		<SimpleData name="12P_EC">1</SimpleData>
+		<SimpleData name="14P">152.5</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P"></SimpleData>
+		<SimpleData name="15P_EC"></SimpleData>
+		<SimpleData name="16P">191</SimpleData>
+		<SimpleData name="16P_EC">1</SimpleData>
+		<SimpleData name="12S">254.8</SimpleData>
+		<SimpleData name="12S_EC">1</SimpleData>
+		<SimpleData name="14S">260.5</SimpleData>
+		<SimpleData name="14S_EC">1</SimpleData>
+		<SimpleData name="15S">370.1</SimpleData>
+		<SimpleData name="15S_EC">1</SimpleData>
+		<SimpleData name="16S">319.7</SimpleData>
+		<SimpleData name="16S_EC">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-33.9,-28.7</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A16</SimpleData>
+		<SimpleData name="Lat">6.8</SimpleData>
+		<SimpleData name="Long">5.1</SimpleData>
+		<SimpleData name="Depth">1105</SimpleData>
+		<SimpleData name="Phi">9</SimpleData>
+		<SimpleData name="Delta-a">1.2</SimpleData>
+		<SimpleData name="Delta-b">0.7</SimpleData>
+		<SimpleData name="Depth_err">18</SimpleData>
+		<SimpleData name="Date">721081524</SimpleData>
+		<SimpleData name="Seconds">35.48</SimpleData>
+		<SimpleData name="Time_err">0.4</SimpleData>
+		<SimpleData name="12P"></SimpleData>
+		<SimpleData name="12P_EC"></SimpleData>
+		<SimpleData name="14P">184.5</SimpleData>
+		<SimpleData name="14P_EC">2</SimpleData>
+		<SimpleData name="15P">185.4</SimpleData>
+		<SimpleData name="15P_EC">1</SimpleData>
+		<SimpleData name="16P">185.4</SimpleData>
+		<SimpleData name="16P_EC">1</SimpleData>
+		<SimpleData name="12S">315.2</SimpleData>
+		<SimpleData name="12S_EC">1</SimpleData>
+		<SimpleData name="14S">305.5</SimpleData>
+		<SimpleData name="14S_EC">1</SimpleData>
+		<SimpleData name="15S">298.6</SimpleData>
+		<SimpleData name="15S_EC">0</SimpleData>
+		<SimpleData name="16S">298.3</SimpleData>
+		<SimpleData name="16S_EC">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>5.1,6.8</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A17</SimpleData>
+		<SimpleData name="Lat">23.1</SimpleData>
+		<SimpleData name="Long">-18</SimpleData>
+		<SimpleData name="Depth">861</SimpleData>
+		<SimpleData name="Phi">-47</SimpleData>
+		<SimpleData name="Delta-a">2.6</SimpleData>
+		<SimpleData name="Delta-b">0.4</SimpleData>
+		<SimpleData name="Depth_err">15</SimpleData>
+		<SimpleData name="Date">7211070852</SimpleData>
+		<SimpleData name="Seconds">7.94</SimpleData>
+		<SimpleData name="Time_err">0.6</SimpleData>
+		<SimpleData name="12P">143</SimpleData>
+		<SimpleData name="12P_EC">0</SimpleData>
+		<SimpleData name="14P">141.9</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P">133.3</SimpleData>
+		<SimpleData name="15P_EC">2</SimpleData>
+		<SimpleData name="16P">178</SimpleData>
+		<SimpleData name="16P_EC">1</SimpleData>
+		<SimpleData name="12S">246.2</SimpleData>
+		<SimpleData name="12S_EC">1</SimpleData>
+		<SimpleData name="14S">243.9</SimpleData>
+		<SimpleData name="14S_EC">1</SimpleData>
+		<SimpleData name="15S">228.9</SimpleData>
+		<SimpleData name="15S_EC">0</SimpleData>
+		<SimpleData name="16S"></SimpleData>
+		<SimpleData name="16S_EC"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-18.0,23.1</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A18</SimpleData>
+		<SimpleData name="Lat">18.6</SimpleData>
+		<SimpleData name="Long">34.7</SimpleData>
+		<SimpleData name="Depth">882</SimpleData>
+		<SimpleData name="Phi">-67</SimpleData>
+		<SimpleData name="Delta-a">1.8</SimpleData>
+		<SimpleData name="Delta-b">0.9</SimpleData>
+		<SimpleData name="Depth_err">24</SimpleData>
+		<SimpleData name="Date">7301052250</SimpleData>
+		<SimpleData name="Seconds">30.86</SimpleData>
+		<SimpleData name="Time_err">1.5</SimpleData>
+		<SimpleData name="12P">229.2</SimpleData>
+		<SimpleData name="12P_EC">2</SimpleData>
+		<SimpleData name="14P">216.2</SimpleData>
+		<SimpleData name="14P_EC">0</SimpleData>
+		<SimpleData name="15P">188.5</SimpleData>
+		<SimpleData name="15P_EC">2</SimpleData>
+		<SimpleData name="16P">188.5</SimpleData>
+		<SimpleData name="16P_EC">1</SimpleData>
+		<SimpleData name="12S">373.2</SimpleData>
+		<SimpleData name="12S_EC">1</SimpleData>
+		<SimpleData name="14S">357.5</SimpleData>
+		<SimpleData name="14S_EC">0</SimpleData>
+		<SimpleData name="15S">276.5</SimpleData>
+		<SimpleData name="15S_EC">1</SimpleData>
+		<SimpleData name="16S">279.6</SimpleData>
+		<SimpleData name="16S_EC">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7,18.6</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A20</SimpleData>
+		<SimpleData name="Lat">21.7</SimpleData>
+		<SimpleData name="Long">-41</SimpleData>
+		<SimpleData name="Depth">1055</SimpleData>
+		<SimpleData name="Phi">-1</SimpleData>
+		<SimpleData name="Delta-a">2.4</SimpleData>
+		<SimpleData name="Delta-b">0.8</SimpleData>
+		<SimpleData name="Depth_err">13</SimpleData>
+		<SimpleData name="Date">7205151718</SimpleData>
+		<SimpleData name="Seconds">7.15</SimpleData>
+		<SimpleData name="Time_err">1.2</SimpleData>
+		<SimpleData name="12P"></SimpleData>
+		<SimpleData name="12P_EC"></SimpleData>
+		<SimpleData name="14P">179.9</SimpleData>
+		<SimpleData name="14P_EC">2</SimpleData>
+		<SimpleData name="15P">174.3</SimpleData>
+		<SimpleData name="15P_EC">0</SimpleData>
+		<SimpleData name="16P">204.5</SimpleData>
+		<SimpleData name="16P_EC">0</SimpleData>
+		<SimpleData name="12S">279.2</SimpleData>
+		<SimpleData name="12S_EC">0</SimpleData>
+		<SimpleData name="14S">284.1</SimpleData>
+		<SimpleData name="14S_EC">1</SimpleData>
+		<SimpleData name="15S"></SimpleData>
+		<SimpleData name="15S_EC"></SimpleData>
+		<SimpleData name="16S">357.3</SimpleData>
+		<SimpleData name="16S_EC">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-41.0,21.7</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A24</SimpleData>
+		<SimpleData name="Lat">-36.8</SimpleData>
+		<SimpleData name="Long">-38.9</SimpleData>
+		<SimpleData name="Depth">980</SimpleData>
+		<SimpleData name="Phi">57</SimpleData>
+		<SimpleData name="Delta-a">2.1</SimpleData>
+		<SimpleData name="Delta-b">1.7</SimpleData>
+		<SimpleData name="Depth_err">32</SimpleData>
+		<SimpleData name="Date">7706121817</SimpleData>
+		<SimpleData name="Seconds">38.54</SimpleData>
+		<SimpleData name="Time_err">0.3</SimpleData>
+		<SimpleData name="12P">196.7</SimpleData>
+		<SimpleData name="12P_EC">1</SimpleData>
+		<SimpleData name="14P">198</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P"></SimpleData>
+		<SimpleData name="15P_EC"></SimpleData>
+		<SimpleData name="16P"></SimpleData>
+		<SimpleData name="16P_EC">2</SimpleData>
+		<SimpleData name="12S">315.8</SimpleData>
+		<SimpleData name="12S_EC">2</SimpleData>
+		<SimpleData name="14S">319.7</SimpleData>
+		<SimpleData name="14S_EC">0</SimpleData>
+		<SimpleData name="15S">417.8</SimpleData>
+		<SimpleData name="15S_EC">2</SimpleData>
+		<SimpleData name="16S">368</SimpleData>
+		<SimpleData name="16S_EC">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-38.9,-36.8</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A25</SimpleData>
+		<SimpleData name="Lat">34.4</SimpleData>
+		<SimpleData name="Long">59.3</SimpleData>
+		<SimpleData name="Depth">898</SimpleData>
+		<SimpleData name="Phi">87</SimpleData>
+		<SimpleData name="Delta-a">2</SimpleData>
+		<SimpleData name="Delta-b">1.7</SimpleData>
+		<SimpleData name="Depth_err">26</SimpleData>
+		<SimpleData name="Date">7706092015</SimpleData>
+		<SimpleData name="Seconds">7.55</SimpleData>
+		<SimpleData name="Time_err">1.8</SimpleData>
+		<SimpleData name="12P">241.3</SimpleData>
+		<SimpleData name="12P_EC">2</SimpleData>
+		<SimpleData name="14P">242.1</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P">179.2</SimpleData>
+		<SimpleData name="15P_EC">0</SimpleData>
+		<SimpleData name="16P">200.7</SimpleData>
+		<SimpleData name="16P_EC"></SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S">409.3</SimpleData>
+		<SimpleData name="14S_EC">1</SimpleData>
+		<SimpleData name="15S">312.7</SimpleData>
+		<SimpleData name="15S_EC">1</SimpleData>
+		<SimpleData name="16S">345.6</SimpleData>
+		<SimpleData name="16S_EC">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>59.3,34.4</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A27</SimpleData>
+		<SimpleData name="Lat">22.5</SimpleData>
+		<SimpleData name="Long">18.5</SimpleData>
+		<SimpleData name="Depth">1059</SimpleData>
+		<SimpleData name="Phi">-24</SimpleData>
+		<SimpleData name="Delta-a">1.9</SimpleData>
+		<SimpleData name="Delta-b">1.4</SimpleData>
+		<SimpleData name="Depth_err">14</SimpleData>
+		<SimpleData name="Date">7705160001</SimpleData>
+		<SimpleData name="Seconds">51.54</SimpleData>
+		<SimpleData name="Time_err">1.3</SimpleData>
+		<SimpleData name="12P"></SimpleData>
+		<SimpleData name="12P_EC"></SimpleData>
+		<SimpleData name="14P">236.1</SimpleData>
+		<SimpleData name="14P_EC">2</SimpleData>
+		<SimpleData name="15P">193.4</SimpleData>
+		<SimpleData name="15P_EC">0</SimpleData>
+		<SimpleData name="16P">205.9</SimpleData>
+		<SimpleData name="16P_EC">2</SimpleData>
+		<SimpleData name="12S">366</SimpleData>
+		<SimpleData name="12S_EC">2</SimpleData>
+		<SimpleData name="14S">352.3</SimpleData>
+		<SimpleData name="14S_EC">1</SimpleData>
+		<SimpleData name="15S">299.9</SimpleData>
+		<SimpleData name="15S_EC">0</SimpleData>
+		<SimpleData name="16S">338.9</SimpleData>
+		<SimpleData name="16S_EC">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.5,22.5</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A30</SimpleData>
+		<SimpleData name="Lat">11.8</SimpleData>
+		<SimpleData name="Long">-34.3</SimpleData>
+		<SimpleData name="Depth">921</SimpleData>
+		<SimpleData name="Phi">-37</SimpleData>
+		<SimpleData name="Delta-a">1.5</SimpleData>
+		<SimpleData name="Delta-b">1</SimpleData>
+		<SimpleData name="Depth_err">23</SimpleData>
+		<SimpleData name="Date">7205170042</SimpleData>
+		<SimpleData name="Seconds">45.93</SimpleData>
+		<SimpleData name="Time_err">0.5</SimpleData>
+		<SimpleData name="12P"></SimpleData>
+		<SimpleData name="12P_EC"></SimpleData>
+		<SimpleData name="14P">181</SimpleData>
+		<SimpleData name="14P_EC">0</SimpleData>
+		<SimpleData name="15P">201.7</SimpleData>
+		<SimpleData name="15P_EC">1</SimpleData>
+		<SimpleData name="16P"></SimpleData>
+		<SimpleData name="16P_EC">1</SimpleData>
+		<SimpleData name="12S">273.3</SimpleData>
+		<SimpleData name="12S_EC">1</SimpleData>
+		<SimpleData name="14S">283.4</SimpleData>
+		<SimpleData name="14S_EC">1</SimpleData>
+		<SimpleData name="15S">321.4</SimpleData>
+		<SimpleData name="15S_EC">1</SimpleData>
+		<SimpleData name="16S">365.2</SimpleData>
+		<SimpleData name="16S_EC">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-34.3,11.8</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A33</SimpleData>
+		<SimpleData name="Lat">6.9</SimpleData>
+		<SimpleData name="Long">117.8</SimpleData>
+		<SimpleData name="Depth">887</SimpleData>
+		<SimpleData name="Phi">-9</SimpleData>
+		<SimpleData name="Delta-a">1.5</SimpleData>
+		<SimpleData name="Delta-b">1.3</SimpleData>
+		<SimpleData name="Depth_err">30</SimpleData>
+		<SimpleData name="Date">7210111935</SimpleData>
+		<SimpleData name="Seconds">46.79</SimpleData>
+		<SimpleData name="Time_err">1.1</SimpleData>
+		<SimpleData name="12P">369.9</SimpleData>
+		<SimpleData name="12P_EC">2</SimpleData>
+		<SimpleData name="14P">349.1</SimpleData>
+		<SimpleData name="14P_EC">0</SimpleData>
+		<SimpleData name="15P">318</SimpleData>
+		<SimpleData name="15P_EC">0</SimpleData>
+		<SimpleData name="16P">311.8</SimpleData>
+		<SimpleData name="16P_EC"></SimpleData>
+		<SimpleData name="12S"></SimpleData>
+		<SimpleData name="12S_EC"></SimpleData>
+		<SimpleData name="14S"></SimpleData>
+		<SimpleData name="14S_EC"></SimpleData>
+		<SimpleData name="15S">528.1</SimpleData>
+		<SimpleData name="15S_EC">1</SimpleData>
+		<SimpleData name="16S">511.5</SimpleData>
+		<SimpleData name="16S_EC">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>117.8,6.9</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A34</SimpleData>
+		<SimpleData name="Lat">7</SimpleData>
+		<SimpleData name="Long">-9.3</SimpleData>
+		<SimpleData name="Depth">932</SimpleData>
+		<SimpleData name="Phi">-32</SimpleData>
+		<SimpleData name="Delta-a">1.2</SimpleData>
+		<SimpleData name="Delta-b">0.6</SimpleData>
+		<SimpleData name="Depth_err">26</SimpleData>
+		<SimpleData name="Date">7206141834</SimpleData>
+		<SimpleData name="Seconds">27.24</SimpleData>
+		<SimpleData name="Time_err">2.6</SimpleData>
+		<SimpleData name="12P">154.9</SimpleData>
+		<SimpleData name="12P_EC">1</SimpleData>
+		<SimpleData name="14P">158.1</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P">164.4</SimpleData>
+		<SimpleData name="15P_EC">1</SimpleData>
+		<SimpleData name="16P"></SimpleData>
+		<SimpleData name="16P_EC">1</SimpleData>
+		<SimpleData name="12S">249.8</SimpleData>
+		<SimpleData name="12S_EC">1</SimpleData>
+		<SimpleData name="14S">256.5</SimpleData>
+		<SimpleData name="14S_EC">1</SimpleData>
+		<SimpleData name="15S">265.2</SimpleData>
+		<SimpleData name="15S_EC">0</SimpleData>
+		<SimpleData name="16S">279.3</SimpleData>
+		<SimpleData name="16S_EC">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-9.3,7.0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A40</SimpleData>
+		<SimpleData name="Lat">-1.6</SimpleData>
+		<SimpleData name="Long">-10.9</SimpleData>
+		<SimpleData name="Depth">886</SimpleData>
+		<SimpleData name="Phi">-80</SimpleData>
+		<SimpleData name="Delta-a">1.2</SimpleData>
+		<SimpleData name="Delta-b">0.7</SimpleData>
+		<SimpleData name="Depth_err">23</SimpleData>
+		<SimpleData name="Date">7306272348</SimpleData>
+		<SimpleData name="Seconds">35.37</SimpleData>
+		<SimpleData name="Time_err">0.6</SimpleData>
+		<SimpleData name="12P"></SimpleData>
+		<SimpleData name="12P_EC"></SimpleData>
+		<SimpleData name="14P"></SimpleData>
+		<SimpleData name="14P_EC"></SimpleData>
+		<SimpleData name="15P">185</SimpleData>
+		<SimpleData name="15P_EC">2</SimpleData>
+		<SimpleData name="16P">173.1</SimpleData>
+		<SimpleData name="16P_EC">0</SimpleData>
+		<SimpleData name="12S">247.9</SimpleData>
+		<SimpleData name="12S_EC">0</SimpleData>
+		<SimpleData name="14S">242.6</SimpleData>
+		<SimpleData name="14S_EC">1</SimpleData>
+		<SimpleData name="15S">286.7</SimpleData>
+		<SimpleData name="15S_EC">1</SimpleData>
+		<SimpleData name="16S">277.8</SimpleData>
+		<SimpleData name="16S_EC">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-10.9,-1.6</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A41</SimpleData>
+		<SimpleData name="Lat">13.9</SimpleData>
+		<SimpleData name="Long">-26.8</SimpleData>
+		<SimpleData name="Depth">953</SimpleData>
+		<SimpleData name="Phi">-28</SimpleData>
+		<SimpleData name="Delta-a">5.6</SimpleData>
+		<SimpleData name="Delta-b">2.2</SimpleData>
+		<SimpleData name="Depth_err">84</SimpleData>
+		<SimpleData name="Date">7206081616</SimpleData>
+		<SimpleData name="Seconds">24.7</SimpleData>
+		<SimpleData name="Time_err">3.5</SimpleData>
+		<SimpleData name="12P"></SimpleData>
+		<SimpleData name="12P_EC"></SimpleData>
+		<SimpleData name="14P">163.4</SimpleData>
+		<SimpleData name="14P_EC">2</SimpleData>
+		<SimpleData name="15P">172.4</SimpleData>
+		<SimpleData name="15P_EC">2</SimpleData>
+		<SimpleData name="16P"></SimpleData>
+		<SimpleData name="16P_EC">2</SimpleData>
+		<SimpleData name="12S">247.3</SimpleData>
+		<SimpleData name="12S_EC">2</SimpleData>
+		<SimpleData name="14S">270.1</SimpleData>
+		<SimpleData name="14S_EC">2</SimpleData>
+		<SimpleData name="15S">284.1</SimpleData>
+		<SimpleData name="15S_EC">1</SimpleData>
+		<SimpleData name="16S">325.6</SimpleData>
+		<SimpleData name="16S_EC">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-26.8,13.9</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A42</SimpleData>
+		<SimpleData name="Lat">22.7</SimpleData>
+		<SimpleData name="Long">-53.5</SimpleData>
+		<SimpleData name="Depth">1004</SimpleData>
+		<SimpleData name="Phi">-53</SimpleData>
+		<SimpleData name="Delta-a">1.8</SimpleData>
+		<SimpleData name="Delta-b">1.4</SimpleData>
+		<SimpleData name="Depth_err">24</SimpleData>
+		<SimpleData name="Date">7305030152</SimpleData>
+		<SimpleData name="Seconds">35.84</SimpleData>
+		<SimpleData name="Time_err">2.2</SimpleData>
+		<SimpleData name="12P">195.8</SimpleData>
+		<SimpleData name="12P_EC">1</SimpleData>
+		<SimpleData name="14P">205.6</SimpleData>
+		<SimpleData name="14P_EC">0</SimpleData>
+		<SimpleData name="15P">229.9</SimpleData>
+		<SimpleData name="15P_EC">2</SimpleData>
+		<SimpleData name="16P">245.6</SimpleData>
+		<SimpleData name="16P_EC">1</SimpleData>
+		<SimpleData name="12S">318.9</SimpleData>
+		<SimpleData name="12S_EC">1</SimpleData>
+		<SimpleData name="14S">331.9</SimpleData>
+		<SimpleData name="14S_EC">1</SimpleData>
+		<SimpleData name="15S">352.5</SimpleData>
+		<SimpleData name="15S_EC">1</SimpleData>
+		<SimpleData name="16S">418</SimpleData>
+		<SimpleData name="16S_EC">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.5,22.7</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A44</SimpleData>
+		<SimpleData name="Lat">51.9</SimpleData>
+		<SimpleData name="Long">57.1</SimpleData>
+		<SimpleData name="Depth">956</SimpleData>
+		<SimpleData name="Phi">-74</SimpleData>
+		<SimpleData name="Delta-a">5.8</SimpleData>
+		<SimpleData name="Delta-b">1.9</SimpleData>
+		<SimpleData name="Depth_err">20</SimpleData>
+		<SimpleData name="Date">7405190309</SimpleData>
+		<SimpleData name="Seconds">4.66</SimpleData>
+		<SimpleData name="Time_err">1.3</SimpleData>
+		<SimpleData name="12P"></SimpleData>
+		<SimpleData name="12P_EC"></SimpleData>
+		<SimpleData name="14P">235.4</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P">177.6</SimpleData>
+		<SimpleData name="15P_EC">1</SimpleData>
+		<SimpleData name="16P"></SimpleData>
+		<SimpleData name="16P_EC">2</SimpleData>
+		<SimpleData name="12S">434.9</SimpleData>
+		<SimpleData name="12S_EC">2</SimpleData>
+		<SimpleData name="14S">411.4</SimpleData>
+		<SimpleData name="14S_EC">0</SimpleData>
+		<SimpleData name="15S">307.4</SimpleData>
+		<SimpleData name="15S_EC">1</SimpleData>
+		<SimpleData name="16S">376.2</SimpleData>
+		<SimpleData name="16S_EC">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>57.1,51.9</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A50</SimpleData>
+		<SimpleData name="Lat">9.4</SimpleData>
+		<SimpleData name="Long">-51.6</SimpleData>
+		<SimpleData name="Depth">835</SimpleData>
+		<SimpleData name="Phi">-13</SimpleData>
+		<SimpleData name="Delta-a">2.4</SimpleData>
+		<SimpleData name="Delta-b">1.5</SimpleData>
+		<SimpleData name="Depth_err">30</SimpleData>
+		<SimpleData name="Date">7304300105</SimpleData>
+		<SimpleData name="Seconds">26.01</SimpleData>
+		<SimpleData name="Time_err">3.7</SimpleData>
+		<SimpleData name="12P">174.2</SimpleData>
+		<SimpleData name="12P_EC">2</SimpleData>
+		<SimpleData name="14P">174.2</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P"></SimpleData>
+		<SimpleData name="15P_EC"></SimpleData>
+		<SimpleData name="16P"></SimpleData>
+		<SimpleData name="16P_EC">2</SimpleData>
+		<SimpleData name="12S">292</SimpleData>
+		<SimpleData name="12S_EC">2</SimpleData>
+		<SimpleData name="14S">285</SimpleData>
+		<SimpleData name="14S_EC">1</SimpleData>
+		<SimpleData name="15S">348.1</SimpleData>
+		<SimpleData name="15S_EC">1</SimpleData>
+		<SimpleData name="16S">397.8</SimpleData>
+		<SimpleData name="16S_EC">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-51.6,9.4</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A51</SimpleData>
+		<SimpleData name="Lat">8.8</SimpleData>
+		<SimpleData name="Long">15.7</SimpleData>
+		<SimpleData name="Depth">888</SimpleData>
+		<SimpleData name="Phi">-28</SimpleData>
+		<SimpleData name="Delta-a">1.1</SimpleData>
+		<SimpleData name="Delta-b">0.5</SimpleData>
+		<SimpleData name="Depth_err">22</SimpleData>
+		<SimpleData name="Date">7402180835</SimpleData>
+		<SimpleData name="Seconds">27.4</SimpleData>
+		<SimpleData name="Time_err">1.2</SimpleData>
+		<SimpleData name="12P"></SimpleData>
+		<SimpleData name="12P_EC"></SimpleData>
+		<SimpleData name="14P">181.2</SimpleData>
+		<SimpleData name="14P_EC">2</SimpleData>
+		<SimpleData name="15P">149</SimpleData>
+		<SimpleData name="15P_EC">2</SimpleData>
+		<SimpleData name="16P"></SimpleData>
+		<SimpleData name="16P_EC">2</SimpleData>
+		<SimpleData name="12S">320.7</SimpleData>
+		<SimpleData name="12S_EC">2</SimpleData>
+		<SimpleData name="14S">291.1</SimpleData>
+		<SimpleData name="14S_EC">0</SimpleData>
+		<SimpleData name="15S">254.1</SimpleData>
+		<SimpleData name="15S_EC">0</SimpleData>
+		<SimpleData name="16S">248.8</SimpleData>
+		<SimpleData name="16S_EC">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7,8.8</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lognonne_2003_catalog_1">
+		<SimpleData name="Type">A97</SimpleData>
+		<SimpleData name="Lat">-3.4</SimpleData>
+		<SimpleData name="Long">18.7</SimpleData>
+		<SimpleData name="Depth">1000</SimpleData>
+		<SimpleData name="Phi">-3</SimpleData>
+		<SimpleData name="Delta-a">2.8</SimpleData>
+		<SimpleData name="Delta-b">2.3</SimpleData>
+		<SimpleData name="Depth_err">25</SimpleData>
+		<SimpleData name="Date">7705190608</SimpleData>
+		<SimpleData name="Seconds">21.53</SimpleData>
+		<SimpleData name="Time_err">2.1</SimpleData>
+		<SimpleData name="12P"></SimpleData>
+		<SimpleData name="12P_EC"></SimpleData>
+		<SimpleData name="14P">180.6</SimpleData>
+		<SimpleData name="14P_EC">1</SimpleData>
+		<SimpleData name="15P">173.8</SimpleData>
+		<SimpleData name="15P_EC">1</SimpleData>
+		<SimpleData name="16P">156</SimpleData>
+		<SimpleData name="16P_EC">2</SimpleData>
+		<SimpleData name="12S">310.3</SimpleData>
+		<SimpleData name="12S_EC">2</SimpleData>
+		<SimpleData name="14S">295.2</SimpleData>
+		<SimpleData name="14S_EC">2</SimpleData>
+		<SimpleData name="15S">301.1</SimpleData>
+		<SimpleData name="15S_EC">2</SimpleData>
+		<SimpleData name="16S">251.8</SimpleData>
+		<SimpleData name="16S_EC">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.7,-3.4</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
