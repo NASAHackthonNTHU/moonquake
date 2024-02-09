@@ -68,7 +68,7 @@ function createRippleEffect(position) {
         position: position,
         point: {
             color: Cesium.Color.fromCssColorString('#007bff'),
-            pixelSize: 12, 
+            pixelSize: 9, 
             heightReference: Cesium.HeightReference.CLAMP_TO_GROUND,
         }
     });
@@ -79,8 +79,8 @@ function createRippleEffect(position) {
         ripplePoints.push(viewer.entities.add({
             position: position,
             point: {
-                color: Cesium.Color.fromCssColorString('#007bff').withAlpha(0.15 - i * 0.05), 
-                pixelSize: 12 + i * 3,
+                color: Cesium.Color.fromCssColorString('#007bff').withAlpha(0.3 - i * 0.1), 
+                pixelSize: 9 + i * 3,
                 heightReference: Cesium.HeightReference.CLAMP_TO_GROUND,
             }
         }));
@@ -91,8 +91,8 @@ function createRippleEffect(position) {
         ripplePoints.forEach((point, index) => {
             let pixelSize = point.point.pixelSize.getValue(Cesium.JulianDate.now());
             pixelSize += 1;
-            if (pixelSize > 25 + index * 5) { 
-                pixelSize = 10 + index * 5;
+            if (pixelSize > 20 + index * 5) { 
+                pixelSize = 9 + index * 3;
             }
             point.point.pixelSize = pixelSize;
         });
