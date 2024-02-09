@@ -1,7 +1,7 @@
 # Moonquake Map
 
 - [Project repo](https://github.com/princesswinnie1122/moonquake/tree/docs)
-- [Website demo](https://github.com/NASAHackthonNTHU/moonquake/blob/main/princesswinnie1122.github.io/moonquake)
+- [Website demo](https://princesswinnie1122.github.io/moonquake/index.html)
 
 ## How to use this repo
 
