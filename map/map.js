@@ -120,6 +120,17 @@ viewer.screenSpaceEventHandler.setInputAction(function onMouseMove(movement) {
             const date = properties.getValue()['Date'] || 'N/A';
             const seconds = properties.getValue()['Seconds'] || 'N/A';
 
+            // Format the date and time
+            function formatDateTime(dateString) {
+                const year = dateString.substring(0, 2);
+                const month = dateString.substring(2, 4);
+                const day = dateString.substring(4, 6);
+                const hour = dateString.substring(6, 8);
+                const minute = dateString.substring(8, 10);
+                return `19${year}/${month}/${day} ${hour}:${minute}`;
+            }          
+            const formattedDate = formatDateTime(date.toString());
+            
             // Extract latitude and longitude from the entity's position
             let lat = 'N/A', long = 'N/A';
             if (pickedObject.id.position) {
@@ -133,11 +144,11 @@ viewer.screenSpaceEventHandler.setInputAction(function onMouseMove(movement) {
             const infoContent = document.getElementById('infoContent');
             infoContent.innerHTML = `
                 <strong>Type:</strong> ${type}<br>
-                <strong>Latitude:</strong> ${lat}<br>
-                <strong>Longitude:</strong> ${long}<br>
-                <strong>Depth:</strong> ${depth}<br>
-                <strong>Date:</strong> ${date}<br>
-                <strong>Seconds:</strong> ${seconds}
+                <strong>Latitude:</strong> ${lat}°<br>
+                <strong>Longitude:</strong> ${long}°<br>
+                <strong>Depth:</strong> ${depth} m<br>
+                <strong>Date:</strong> ${formattedDate}<br>
+                <strong>Seconds:</strong> ${seconds} s
             `;
             customInfoBox.style.left = `${movement.endPosition.x + 30}px`;
             customInfoBox.style.top = `${movement.endPosition.y + 10}px`;
