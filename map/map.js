@@ -50,18 +50,21 @@ viewer.camera.setView({
 viewer.camera.lookAtTransform(Cesium.Matrix4.IDENTITY);
 
 
-// Load the KML data source
-Cesium.KmlDataSource.load('../data/lognonne.kml', { clampToGround: true })
-    .then(function(dataSource) {
-        viewer.dataSources.add(dataSource);
-
-        dataSource.entities.values.forEach(function(entity) {
-            if (entity.position) {
-                entity.show = false;
-                createRippleEffect(entity.position.getValue(Cesium.JulianDate.now()));
-            }
-        });
+// Load the GeoJSON data source
+const data = '../data/lognonne.geojson';
+Cesium.GeoJsonDataSource.load(data, {
+    //clampToGround: true,
+    markerSize: 10,
+    markerColor: Cesium.Color.fromAlpha(Cesium.Color.fromCssColorString('#007bff'), 0.01)
+}).then(function(dataSource) {
+    dataSource.entities.values.forEach(function(entity) {
+        if (entity.position) {
+            createRippleEffect(entity.position.getValue(Cesium.JulianDate.now()));
+        }
     });
+    viewer.dataSources.add(dataSource);
+});
+
 
 function createRippleEffect(position) {
     viewer.entities.add({
@@ -98,26 +101,56 @@ function createRippleEffect(position) {
         });
     });
 }
-    
-viewer.screenSpaceEventHandler.setInputAction(function onLeftClick(movement) {
-    const pickedObject = viewer.scene.pick(movement.position);
-    const customInfoBox = document.getElementById('customInfoBox');
-    const infoContent = document.getElementById('infoContent');
 
-    // Check if a data point (entity with a point) was clicked
-    if (Cesium.defined(pickedObject) && Cesium.defined(pickedObject.id) && pickedObject.id.point) {
-        // Display the custom info box with details
-        infoContent.innerHTML = `
-            <strong>Info Box</strong><br>
-            X: ${movement.position.x}<br>Y: ${movement.position.y}
-        `;
-        customInfoBox.style.left = movement.position.x + 30 + 'px';
-        customInfoBox.style.top = movement.position.y + 5 + 'px';
-        customInfoBox.style.display = 'block';
+
+// Custom info box
+let lastHoveredEntity = null;
+
+viewer.screenSpaceEventHandler.setInputAction(function onMouseMove(movement) {
+    const pickedObject = viewer.scene.pick(movement.endPosition);
+    if (Cesium.defined(pickedObject) && pickedObject.id && pickedObject.id.properties) {
+        // Check if the hovered entity is different from the last one
+        if (lastHoveredEntity !== pickedObject.id) {
+            lastHoveredEntity = pickedObject.id; // Update the last hovered entity
+            const properties = pickedObject.id.properties;
+
+            // Access the properties directly for static GeoJSON data
+            const type = properties.getValue()['Type'] || 'N/A';
+            const depth = properties.getValue()['Depth'] || 'N/A';
+            const date = properties.getValue()['Date'] || 'N/A';
+            const seconds = properties.getValue()['Seconds'] || 'N/A';
+
+            // Extract latitude and longitude from the entity's position
+            let lat = 'N/A', long = 'N/A';
+            if (pickedObject.id.position) {
+                const cartographicPosition = Cesium.Cartographic.fromCartesian(pickedObject.id.position.getValue(Cesium.JulianDate.now()));
+                lat = Number(Cesium.Math.toDegrees(cartographicPosition.latitude).toFixed(6));
+                long = Number(Cesium.Math.toDegrees(cartographicPosition.longitude).toFixed(6));
+            }
+
+            // Update and display the custom info box
+            const customInfoBox = document.getElementById('customInfoBox');
+            const infoContent = document.getElementById('infoContent');
+            infoContent.innerHTML = `
+                <strong>Type:</strong> ${type}<br>
+                <strong>Latitude:</strong> ${lat}<br>
+                <strong>Longitude:</strong> ${long}<br>
+                <strong>Depth:</strong> ${depth}<br>
+                <strong>Date:</strong> ${date}<br>
+                <strong>Seconds:</strong> ${seconds}
+            `;
+            customInfoBox.style.left = `${movement.endPosition.x + 30}px`;
+            customInfoBox.style.top = `${movement.endPosition.y + 10}px`;
+            customInfoBox.style.display = 'block';
+        }
     } else {
-        customInfoBox.style.display = 'none';
+        document.getElementById('customInfoBox').style.display = 'none';
+        lastHoveredEntity = null; // Reset the last hovered entity
     }
-}, Cesium.ScreenSpaceEventType.LEFT_CLICK);
+}, Cesium.ScreenSpaceEventType.MOUSE_MOVE);
+
+
+
       
 // Remove double-click zoom
 const handler = viewer.screenSpaceEventHandler;
